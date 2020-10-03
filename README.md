@@ -2,6 +2,6 @@
 ->Type in the text\
 ->Select voice\
 ->Tap on Speak\
-Features available
-->Change pitch
-->Change rate of speech
+Features available\
+->Change pitch\
+->Change rate of speech\
