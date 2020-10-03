@@ -4,4 +4,4 @@
 ->Tap on Speak\
 Features available\
 ->Change pitch\
-->Change rate of speech\
+->Change rate of speech
